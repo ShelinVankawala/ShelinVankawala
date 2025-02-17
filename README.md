@@ -1,8 +1,8 @@
 ## Shelin Vankawala
-#### Software Engineer Intern | AI/ML Fanatic | DevSecOps | Researcher
+#### Data Science TA | AI/ML Fanatic | DevSecOps | Researcher
 
 # 💫 About Me:
-B.Tech in Computer Science & Engineering @ Charotar University of Science & Technology.<br><br>Software Engineer Intern @ Infopercept Consulting Pvt. Ltd.<br><br>Focusing towards Artificial Intelligence and Machine Learning.<br>
+M.Eng @ McMaster University.<br><br>Software Engineer Intern @ Infopercept Consulting Pvt. Ltd.<br><br>Focusing towards Artificial Intelligence and Machine Learning.<br>
 
 
 ## 🌐 Socials:
